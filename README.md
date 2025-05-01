@@ -1,4 +1,4 @@
-# SQL Injection Vulnerability Encyclopedia
+# SQL Injection Vulnerability
 
 ![SQL Injection Types](https://img.shields.io/badge/SQL-Injection-critical?style=for-the-badge&color=red)
 * ### In this project We have illustrated different types of SQL injection vulnerabilities using PHP and MySQL
